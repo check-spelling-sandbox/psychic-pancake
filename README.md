@@ -1,2 +1,2 @@
-# psychic-pancake
+# psychic-psychic-pancake
 Sample action

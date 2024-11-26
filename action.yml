@@ -1,8 +1,8 @@
-name: psychic-pancake
-description: psychic pancake
+name: psychic-psychic-pancake
+description: psychic psychic pancake
 runs:
   using: 'composite'
   steps:
     - shell: bash
       run: |
-        echo :pancake:
+        echo :pancakes:
