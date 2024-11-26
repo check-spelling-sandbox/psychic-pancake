@@ -1,4 +1,5 @@
 name: psychic-pancake
+description: psychic pancake
 runs:
   using: 'composite'
   steps:
