@@ -4,4 +4,5 @@ runs:
   using: 'composite'
   steps:
     - shell: bash
-      run: echo :pancake:
+      run: |
+        echo :pancake:
