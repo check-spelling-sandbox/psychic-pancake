@@ -1,0 +1,6 @@
+name: psychic-pancake
+runs:
+  using: 'composite'
+  steps:
+    - shell: bash
+      run: echo :pancake:
